@@ -34,7 +34,7 @@ As part of my AI + AR research, I wanted to create a fun, interactive assistant 
 
 ---
 
-## 🧪 Coming Soon
+## 🧪 Features
 
 - Text-to-speech output
 - Voice input with Whisper API
