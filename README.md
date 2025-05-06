@@ -5,7 +5,7 @@ This is a personal project where I brought my Bitmoji to life. The assistant can
 ---
 
 ## 🚀 Live Demo
-👉 [Coming soon on my portfolio](https://chirag-portfolio.vercel.app) *(update this once deployed)*
+👉 [Coming soon on my portfolio](https://chirag-portfolio.vercel.app)
 
 ---
 
